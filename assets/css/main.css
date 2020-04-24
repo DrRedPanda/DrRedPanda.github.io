@@ -71,10 +71,7 @@
 	}
 
 	.sponsor:hover {
-		position:relative;
-		width:350px;
-		height:350px;
-		display:block;
+		transform: scale(1.5);
 	}
 	.container.\37 5\25 {
 		width: 60em;
