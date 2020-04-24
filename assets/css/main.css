@@ -70,6 +70,15 @@
 		min-width: 80em;
 	}
 
+	.sponsor:hover {
+		position:relative;
+		top:-25px;
+		left:-35px;
+		width:500px;
+		height:auto;
+		display:block;
+		z-index:999;
+	}
 	.container.\37 5\25 {
 		width: 60em;
 	}
